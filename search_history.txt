@@ -1,0 +1,18 @@
+you----->  hello
+assistant--->  hi, how may i help you
+
+you----->  who are you
+assistant--->  I am NOVA a personal AI assistant
+
+you----->  what is time
+assistant--->  Time is 13:19:03
+
+you----->  what is the date today
+assistant--->  Today's date is 2024-05-25
+
+you----->  who fouded you
+assistant--->  sorry i did not get it
+
+you----->  who are you
+assistant--->  I am NOVA a personal AI assistant
+
